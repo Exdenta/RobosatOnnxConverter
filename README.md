@@ -1,2 +1,2 @@
 # RobosatOnnxConverter
-Converts robosat pytorch building detection model to onnx to run with microsoft/onnxruntime
+Converts robosat pytorch model to onnx to run with microsoft/onnxruntime
